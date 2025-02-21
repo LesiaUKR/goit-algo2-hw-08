@@ -1,0 +1,7 @@
+[flake8]
+ignore = E203, E501, W503
+exclude = myenv, __pycache__,
+max-line-length = 79
+
+[flake8.length]
+max-comment-length = 72
